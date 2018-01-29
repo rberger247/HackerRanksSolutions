@@ -1,0 +1,6 @@
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Release\HostSandNumberOfRequests.exe.config
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Release\HostSandNumberOfRequests.exe
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Release\HostSandNumberOfRequests.pdb
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Release\HostSandNumberOfRequests.exe
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Release\HostSandNumberOfRequests.pdb
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Release\HostSandNumberOfRequests.csprojResolveAssemblyReference.cache

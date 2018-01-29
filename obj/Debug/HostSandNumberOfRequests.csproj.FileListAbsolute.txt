@@ -1,0 +1,6 @@
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Debug\HostSandNumberOfRequests.exe.config
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Debug\HostSandNumberOfRequests.exe
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\bin\Debug\HostSandNumberOfRequests.pdb
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Debug\HostSandNumberOfRequests.csprojResolveAssemblyReference.cache
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Debug\HostSandNumberOfRequests.exe
+C:\src\HostSandNumberOfRequestsSln\HostSandNumberOfRequests\obj\Debug\HostSandNumberOfRequests.pdb
