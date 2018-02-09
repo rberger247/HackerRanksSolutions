@@ -1,0 +1,6 @@
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\bin\Debug\SuperStackHackerRank.exe.config
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\obj\Debug\SuperStackHackerRank.csprojResolveAssemblyReference.cache
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\bin\Debug\SuperStackHackerRank.exe
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\bin\Debug\SuperStackHackerRank.pdb
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\obj\Debug\SuperStackHackerRank.exe
+C:\src\SuperStackHackerRankSln\SuperStackHackerRank\obj\Debug\SuperStackHackerRank.pdb
