@@ -1,0 +1,6 @@
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\bin\Debug\DictionariesAndMaps.exe.config
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\bin\Debug\DictionariesAndMaps.exe
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\bin\Debug\DictionariesAndMaps.pdb
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\obj\Debug\DictionariesAndMaps.csprojResolveAssemblyReference.cache
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\obj\Debug\DictionariesAndMaps.exe
+C:\src\DictionariesAndMapsSln\DictionariesAndMaps\obj\Debug\DictionariesAndMaps.pdb
